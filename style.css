@@ -1,0 +1,17 @@
+body {
+  font-family: cursive ;
+  background-color: #85a0cc ;
+  color: white ;
+  text-align: center;
+  margin: 100 px;
+  h1 {
+  color: yellow ;
+    background-color: green ; 
+}
+  .intro{
+  color: pink ;
+}   
+}
+  .contenido{
+  color: orange ;
+}
